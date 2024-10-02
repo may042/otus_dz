@@ -1,0 +1,11 @@
+.venv
+venv
+.github
+.git
+.pytest_cache
+infrastructure
+__pycache__
+.coverage
+notebooks
+tests
+models/*

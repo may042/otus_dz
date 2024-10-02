@@ -1,0 +1,20 @@
+venv
+.venv
+.pytest_cache
+.coverage
+__pycache__
+*.joblib
+models/*.joblib
+.terraform
+*.tfvart
+*.tfstate
+*.tfstate.backup
+*.tfstate.backup.*
+.terraform.lock.hcl
+variables.tf
+terraform.tfvars
+# .github
+.ipynb_checkpoints
+# infrastructure
+.env
+*.info

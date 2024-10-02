@@ -1,0 +1,7 @@
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+pyarrow==17.0.0
+loguru==0.7.2
+flask==3.0.3
+catboost==1.2.5
